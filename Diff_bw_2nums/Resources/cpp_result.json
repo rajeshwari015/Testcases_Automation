@@ -1,0 +1,42 @@
+[
+    {
+        "input": [
+            15,
+            7
+        ],
+        "output": 8,
+        "result": true
+    },
+    {
+        "input": [
+            30,
+            45
+        ],
+        "output": -15,
+        "result": true
+    },
+    {
+        "input": [
+            10,
+            10
+        ],
+        "output": 0,
+        "result": true
+    },
+    {
+        "input": [
+            5,
+            20
+        ],
+        "output": -15,
+        "result": true
+    },
+    {
+        "input": [
+            100,
+            75
+        ],
+        "output": 25,
+        "result": true
+    }
+]

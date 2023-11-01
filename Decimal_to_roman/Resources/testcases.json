@@ -1,0 +1,7 @@
+[
+    {"input": 13, "output": "XIII"},
+    {"input": 49, "output": "XLIX"},
+    {"input": 88, "output": "LXXXVIII"},
+    {"input": 124, "output": "CXXIV"},
+    {"input": 399, "output": "CCCXCIX"}
+]

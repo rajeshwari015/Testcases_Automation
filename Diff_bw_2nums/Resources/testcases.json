@@ -1,0 +1,27 @@
+[
+    {
+        "input1": 15,
+        "input2": 7,
+        "output": 8
+    },
+    {
+        "input1": 30,
+        "input2": 45,
+        "output": -15
+    },
+    {
+        "input1": 10,
+        "input2": 10,
+        "output": 0
+    },
+    {
+        "input1": 5,
+        "input2": 20,
+        "output": -15
+    },
+    {
+        "input1": 100,
+        "input2": 75,
+        "output": 25
+    }
+]

@@ -1,0 +1,1 @@
+[{"input":123,"output":3,"result":true},{"input":4567,"output":4,"result":true},{"input":78901,"output":5,"result":true},{"input":23456789,"output":8,"result":true},{"input":1,"output":1,"result":true}]

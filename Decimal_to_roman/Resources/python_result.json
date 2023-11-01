@@ -1,0 +1,27 @@
+[
+    {
+        "input": 13,
+        "output": "XIII",
+        "result": true
+    },
+    {
+        "input": 49,
+        "output": "XLIX",
+        "result": true
+    },
+    {
+        "input": 88,
+        "output": "LXXXVIII",
+        "result": true
+    },
+    {
+        "input": 124,
+        "output": "CXXIV",
+        "result": true
+    },
+    {
+        "input": 399,
+        "output": "CCCXCIX",
+        "result": true
+    }
+]

@@ -1,0 +1,6 @@
+{
+  "testcasesFile": "Resources/testcases.json",
+  "CppResultFile": "Resources/cpp_result.json",
+  "JavaResultFile": "Resources/java_result.json",
+  "PythonResultFile": "Resources/python_result.json"
+}
