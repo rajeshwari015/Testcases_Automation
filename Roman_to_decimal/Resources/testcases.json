@@ -1,0 +1,22 @@
+[
+    {
+        "input": "XII",
+        "output": 12
+    },
+    {
+        "input": "IX",
+        "output": 9
+    },
+    {
+        "input": "XXI",
+        "output": 21
+    },
+    {
+        "input": "IV",
+        "output": 4
+    },
+    {
+        "input": "XLIV",
+        "output": 44
+    }
+]

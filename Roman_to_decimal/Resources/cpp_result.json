@@ -1,0 +1,27 @@
+[
+    {
+        "input": "XII",
+        "output": 12,
+        "result": true
+    },
+    {
+        "input": "IX",
+        "output": 9,
+        "result": true
+    },
+    {
+        "input": "XXI",
+        "output": 21,
+        "result": true
+    },
+    {
+        "input": "IV",
+        "output": 4,
+        "result": true
+    },
+    {
+        "input": "XLIV",
+        "output": 44,
+        "result": true
+    }
+]

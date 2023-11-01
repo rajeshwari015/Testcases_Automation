@@ -1,0 +1,27 @@
+[
+    {
+        "input": "32",
+        "output": 26,
+        "result": true
+    },
+    {
+        "input": "17",
+        "output": 15,
+        "result": true
+    },
+    {
+        "input": "75",
+        "output": 61,
+        "result": true
+    },
+    {
+        "input": "13",
+        "output": 11,
+        "result": true
+    },
+    {
+        "input": "11",
+        "output": 9,
+        "result": true
+    }
+]
